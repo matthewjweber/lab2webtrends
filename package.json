@@ -1,0 +1,17 @@
+{
+  "name": "weekday",
+  "version": "1.0.0",
+  "description": "weekday calc",
+  "main": "index.js",
+  "dependencies": {
+    "tsc-watch": "^1.0.21"
+  },
+  "devDependencies": {
+    "typescript": "^2.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
